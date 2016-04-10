@@ -1,7 +1,8 @@
 .project
-Automation-ui.iml
+*.iml
 .idea
 .classpath
 .project
 target
 .settings
+.class
