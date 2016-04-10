@@ -1,0 +1,4 @@
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\VisitorPattern\bin\Debug\VisitorPattern.exe
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\VisitorPattern\bin\Debug\VisitorPattern.pdb
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\VisitorPattern\obj\x86\Debug\VisitorPattern.exe
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\VisitorPattern\obj\x86\Debug\VisitorPattern.pdb

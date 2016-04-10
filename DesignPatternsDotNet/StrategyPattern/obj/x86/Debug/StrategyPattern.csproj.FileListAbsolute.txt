@@ -1,0 +1,4 @@
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb

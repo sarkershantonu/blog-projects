@@ -1,0 +1,4 @@
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\Facade\bin\Debug\Facade.exe
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\Facade\bin\Debug\Facade.pdb
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\Facade\obj\x86\Debug\Facade.exe
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\Facade\obj\x86\Debug\Facade.pdb

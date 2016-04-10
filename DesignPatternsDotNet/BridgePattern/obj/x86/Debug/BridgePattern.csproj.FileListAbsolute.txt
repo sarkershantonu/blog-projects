@@ -1,0 +1,4 @@
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\BridgePattern\bin\Debug\BridgePattern.exe
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\BridgePattern\bin\Debug\BridgePattern.pdb
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\BridgePattern\obj\x86\Debug\BridgePattern.exe
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\BridgePattern\obj\x86\Debug\BridgePattern.pdb

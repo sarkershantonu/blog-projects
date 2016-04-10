@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E979EA17-48B4-42DD-88E9-9FE3190BE2A0}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AbstractFactory</RootNamespace>
+    <AssemblyName>AbstractFactory</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BuildingContractor.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="Contractor.cs" />
+    <Compile Include="Factories\ShopBuilder.cs" />
+    <Compile Include="Factories\OfficeBuilder.cs" />
+    <Compile Include="Factories\IHouseBuilder.cs" />
+    <Compile Include="Factories\ResidentBuilder.cs" />
+    <Compile Include="Products\Office.cs" />
+    <Compile Include="Products\House.cs" />
+    <Compile Include="Products\Items\ShopToilet.cs" />
+    <Compile Include="Products\Items\OfficeToilet.cs" />
+    <Compile Include="Products\Items\ShopFurniture.cs" />
+    <Compile Include="Products\Items\OfficeFurniture.cs" />
+    <Compile Include="Products\Items\OfficeWindow.cs" />
+    <Compile Include="Products\Items\ResidentFurniture.cs" />
+    <Compile Include="Products\Items\ResidentToilet.cs" />
+    <Compile Include="Products\Items\ShopWindow.cs" />
+    <Compile Include="Products\Items\ResidentWindow.cs" />
+    <Compile Include="Products\Items\ShopDoor.cs" />
+    <Compile Include="Products\Items\ResidentDoor.cs" />
+    <Compile Include="Products\Items\IToilet.cs" />
+    <Compile Include="Products\Items\IFurniture.cs" />
+    <Compile Include="Products\Items\IWindow.cs" />
+    <Compile Include="Products\Items\IDoor.cs" />
+    <Compile Include="Products\Items\OfficeDoor.cs" />
+    <Compile Include="Products\Resident.cs" />
+    <Compile Include="Products\Shop.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

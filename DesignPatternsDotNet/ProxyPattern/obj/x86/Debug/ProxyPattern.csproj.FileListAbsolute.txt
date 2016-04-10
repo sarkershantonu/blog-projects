@@ -1,0 +1,5 @@
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\ProxyPattern\obj\x86\Debug\ProxyPattern.exe
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\ProxyPattern\obj\x86\Debug\ProxyPattern.pdb
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\ProxyPattern\obj\x86\Debug\ProxyPattern.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.exe
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.pdb
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.csprojResolveAssemblyReference.cache

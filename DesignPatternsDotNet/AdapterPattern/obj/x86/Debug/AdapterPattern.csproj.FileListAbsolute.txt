@@ -1,0 +1,4 @@
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\AdapterPattern\obj\x86\Debug\AdapterPattern.exe
+D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\AdapterPattern\obj\x86\Debug\AdapterPattern.pdb
