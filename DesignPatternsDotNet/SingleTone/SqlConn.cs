@@ -10,7 +10,7 @@ namespace SingleTone
     {
         private static volatile SqlConn myInstance;// use readonly in place of volatile for single thread operation
         private static object sync = new Object();//for locking serilize object 
-        public SqlConnection myConn; 
+        private SqlConnection myConn; 
 
         private SqlConn()
         {

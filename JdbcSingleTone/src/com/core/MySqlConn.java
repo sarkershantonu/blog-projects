@@ -7,9 +7,9 @@ import java.sql.DriverManager;
 import java.sql.*;
 
 public final class MySqlConn {
-	public Connection conn;
+	private Connection conn;
 	private Statement statement; 
-	public static MySqlConn db;
+	private static MySqlConn db;
 
 	private MySqlConn() {
 		try{
