@@ -1,0 +1,9 @@
+2016-01-26 06:50:29 INFO  App:20 - first log
+2016-01-26 06:53:59 INFO  App:20 - first log
+2016-01-26 06:55:22 INFO  App:20 - first log
+2016-01-26 07:05:30 INFO  App:22 - first log
+2016-01-26 07:05:46 INFO  App:22 - first log
+2016-01-26 07:08:57 INFO  App:22 - first log
+2016-01-26 07:17:14 INFO  App:22 - first log
+2016-01-26 08:35:29 INFO  NamedThreads:193 - jcabi-aspects 0.22.3/eb12ab2 started new daemon thread jcabi-loggable for watching of @Loggable annotated methods
+2016-01-26 08:35:29 INFO  NamedThreads:193 - jcabi-aspects 0.22.3/eb12ab2 started new daemon thread jcabi-loggable for watching of @Loggable annotated methods
