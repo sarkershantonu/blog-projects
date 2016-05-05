@@ -1,4 +1,0 @@
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.exe

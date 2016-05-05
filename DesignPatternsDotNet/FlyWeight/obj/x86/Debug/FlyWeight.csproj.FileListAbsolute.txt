@@ -1,4 +1,0 @@
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\FlyWeight\bin\Debug\FlyWeight.exe
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\FlyWeight\bin\Debug\FlyWeight.pdb
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\FlyWeight\obj\x86\Debug\FlyWeight.exe
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\FlyWeight\obj\x86\Debug\FlyWeight.pdb

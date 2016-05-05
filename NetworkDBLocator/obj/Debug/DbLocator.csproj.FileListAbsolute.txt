@@ -1,4 +1,0 @@
-D:\RoboTask-Joe\VS\DocumentManager\DbLocator\bin\Debug\DbLocator.dll
-D:\RoboTask-Joe\VS\DocumentManager\DbLocator\bin\Debug\DbLocator.pdb
-D:\RoboTask-Joe\VS\DocumentManager\DbLocator\obj\Debug\DbLocator.dll
-D:\RoboTask-Joe\VS\DocumentManager\DbLocator\obj\Debug\DbLocator.pdb

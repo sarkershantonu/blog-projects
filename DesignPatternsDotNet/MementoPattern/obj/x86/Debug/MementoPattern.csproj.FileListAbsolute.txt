@@ -1,4 +1,0 @@
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\MementoPattern\bin\Debug\MementoPattern.exe
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\MementoPattern\bin\Debug\MementoPattern.pdb
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\MementoPattern\obj\x86\Debug\MementoPattern.exe
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\MementoPattern\obj\x86\Debug\MementoPattern.pdb

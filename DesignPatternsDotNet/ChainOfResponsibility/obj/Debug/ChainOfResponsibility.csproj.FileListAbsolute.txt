@@ -1,4 +1,0 @@
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.exe

@@ -1,4 +1,0 @@
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\InterpreterDesignPattern\bin\Debug\InterpreterDesignPattern.exe
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\InterpreterDesignPattern\bin\Debug\InterpreterDesignPattern.pdb
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\InterpreterDesignPattern\obj\x86\Debug\InterpreterDesignPattern.exe
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\InterpreterDesignPattern\obj\x86\Debug\InterpreterDesignPattern.pdb

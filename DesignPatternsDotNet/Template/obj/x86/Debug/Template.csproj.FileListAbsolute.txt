@@ -1,4 +1,0 @@
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\Template\bin\Debug\Template.exe
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\Template\bin\Debug\Template.pdb
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\Template\obj\x86\Debug\Template.exe
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\Template\obj\x86\Debug\Template.pdb

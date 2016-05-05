@@ -1,9 +1,0 @@
-c:\users\shantonu\documents\visual studio 2010\Projects\DesignPattern\SingleTone\bin\Debug\SingleTone.dll
-c:\users\shantonu\documents\visual studio 2010\Projects\DesignPattern\SingleTone\bin\Debug\SingleTone.pdb
-c:\users\shantonu\documents\visual studio 2010\Projects\DesignPattern\SingleTone\obj\Debug\SingleTone.dll
-c:\users\shantonu\documents\visual studio 2010\Projects\DesignPattern\SingleTone\obj\Debug\SingleTone.pdb
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\SingleTone\obj\Debug\SingleTone.csprojResolveAssemblyReference.cache
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\SingleTone\obj\Debug\SingleTone.dll
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\SingleTone\bin\Debug\SingleTone.dll
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\SingleTone\bin\Debug\SingleTone.pdb
-D:\Google Drive\Blog Items\Source Code\DotNet\DesignPattern\SingleTone\obj\Debug\SingleTone.pdb
