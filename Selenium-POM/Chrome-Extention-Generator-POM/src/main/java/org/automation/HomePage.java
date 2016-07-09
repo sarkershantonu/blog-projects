@@ -1,4 +1,5 @@
-package org.automation.chromeExtentionExample;
+package org.automation;
+
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

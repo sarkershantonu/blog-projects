@@ -16,6 +16,7 @@
         <module>JS-App-POM</module>
         <module>Sharepoint-Page-POM</module>
         <module>Dynamic-Page-POM</module>
+        <module>Chrome-Extention-Generator-POM</module>
     </modules>
     <properties>
         <selenium.version>2.53.0</selenium.version>
