@@ -12,6 +12,10 @@
         <module>Simple-POM</module>
         <module>SinglePageApp-POM</module>
         <module>YandexElementt-POM</module>
+        <module>Shantonu-Preferred-POM</module>
+        <module>JS-App-POM</module>
+        <module>Sharepoint-Page-POM</module>
+        <module>Dynamic-Page-POM</module>
     </modules>
     <properties>
         <selenium.version>2.53.0</selenium.version>
