@@ -11,6 +11,7 @@
     <modules>
         <module>Simple-POM</module>
         <module>SinglePageApp-POM</module>
+        <module>YandexElementt-POM</module>
     </modules>
     <properties>
         <selenium.version>2.53.0</selenium.version>
