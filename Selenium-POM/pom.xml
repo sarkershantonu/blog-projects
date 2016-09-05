@@ -11,12 +11,13 @@
     <modules>
         <module>Simple-POM</module>
         <module>SinglePageApp-POM</module>
-        <module>YandexElementt-POM</module>
         <module>Shantonu-Preferred-POM</module>
         <module>JS-App-POM</module>
         <module>Sharepoint-Page-POM</module>
         <module>Dynamic-Page-POM</module>
         <module>Chrome-Extention-Generator-POM</module>
+        <module>YandexElement-POM</module>
+        <module>Common</module>
     </modules>
     <properties>
         <selenium.version>2.53.0</selenium.version>
@@ -27,6 +28,12 @@
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
             <version>${selenium.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+
         </dependency>
     </dependencies>
 
